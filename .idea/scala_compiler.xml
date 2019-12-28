@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="Saprk_Test_ML">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\大数据\资料\30-推荐系统实战\29.会员版(2.0)-就业课(2.0)-推荐系统\29-2.会员版(2.0)-就业课(2.0)-推荐系统\Saprk_Test_ML\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
